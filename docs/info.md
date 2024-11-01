@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a simple project to test then end-to-end manufacturing process as a first-time tiny tapeout user.
 
 ## How to test
 
-Explain how to use your project
+The whole project is two gates:
+- a NAND gate composed of AND and NOT (pins IN0, IN1, OUT0)
+- a NOT gate (pins IN2, OUT1)
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No particular external hardware is required, other than a power supply and some test tools (output scope, logic level inputs).
